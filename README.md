@@ -24,8 +24,8 @@ This is a simple web application for a pizzeria built as a learning project. The
 
 1. **Clone the Repository**
 
-    ```bash
-    git clone https://github.com/Javohir-Komilov/pizza-website.git
+    ```bash 
+    https://github.com/komilov-javokhir/pizzeria-website.git
     cd pizza-website
     ```
 
